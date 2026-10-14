@@ -1,0 +1,31 @@
+order_id,order_date,customer,region,product,quantity,unit_price,status,email
+1001,2025-01-03,Asha,North,Laptop,1,55000,Paid,asha@example.com
+1002,2025/01/05,Ravi, south ,Mouse,2,700,paid,ravi@example.com
+1003,2025-01-07,Meera,East,Keyboard,1,1500,Pending,meera@example.com
+1004,not-a-date,Kabir,West,Monitor,1,12000,Paid,kabir@example.com
+1005,2025-01-10,Isha,North,Laptop,0,55000,Paid,isha@example.com
+1006,2025-01-12,Arjun,East,Mouse,3,700,Cancelled,arjun@example.com
+1007,2025-01-14,Nina,West,Desk,1,8500,PAID,nina@example.com
+1008,2025-01-15,Omar,North,Chair,2,4200,Paid,omar@example.com
+1009,2025-01-16,Leela,South,Keyboard,2,1500,Pending,leela@example.com
+1010,2025-01-18,Dev,East,Monitor,1,12000,Paid,dev@example.com
+1011,2025-01-20,Sara,West,Mouse,4,700,Paid,sara@example.com
+1012,2025-01-22,Aman,North,Desk,1,8500,paid,aman@example.com
+1013,2025-01-24,Tara,South,Chair,,4200,Paid,tara@example.com
+1014,2025-01-26,Yash,East,Laptop,1,,Paid,yash@example.com
+1015,2025-01-28,Pia,West,Keyboard,2,1500,Returned,pia@example.com
+1016,2025-02-01,Noah,North,Mouse,5,700,Paid,noah@example.com
+1017,2025-02-03,Mira,East,Chair,1,4200,Pending,mira@example.com
+1018,2025-02-05,Neil,South,Monitor,1,12000,Paid,neil@example.com
+1019,2025-02-07,Zoya,West,Desk,2,8500,Paid,zoya@example.com
+1020,2025-02-09,Ira,North,Laptop,1,55000,Paid,ira@example.com
+1021,2025-02-11,Rey,East,Mouse,2,700,Paid,rey@example.com
+1022,2025-02-13,Anya,South,Keyboard,1,1500,Paid,anya@example.com
+1023,2025-02-15,Jay,West,Chair,1,4200,Pending,jay@example.com
+1024,2025-02-17,Uma,North,Monitor,1,12000,Paid,uma@example.com
+1025,2025-02-19,Eli,East,Desk,1,8500,Paid,eli@example.com
+1026,2025-02-21,Avi,South,Mouse,2,700,Paid,avi@example.com
+1027,2025-02-23,Gia,West,Laptop,1,55000,Paid,gia@example.com
+1028,2025-02-25,Sam,North,Keyboard,3,1500,Pending,sam@example.com
+1029,2025-02-27,,East,Chair,1,4200,Paid,
+1030,2025-03-01,Rohan, South,Monitor,1,12000,Paid,rohan@example.com

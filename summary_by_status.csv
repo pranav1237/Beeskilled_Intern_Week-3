@@ -1,0 +1,5 @@
+status,order_count,total_revenue
+Cancelled,1,2100.0
+Paid,18,278700.0
+Pending,5,17400.0
+Returned,1,3000.0
